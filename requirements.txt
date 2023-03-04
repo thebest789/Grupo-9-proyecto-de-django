@@ -1,0 +1,28 @@
+# Django
+Django==3.2.2
+
+# Python Decouple
+python-decouple==3.4
+
+# DJ Database URL
+dj-database-url==0.5.0
+
+# PsycoPG
+psycopg2==2.8.6
+psycopg2-binary==2.8.6
+
+# Heroku
+django-heroku==0.3.1
+gunicorn==20.1.0
+
+# QRcode
+django-qr-code==2.1.0
+
+# Sentry
+sentry-sdk==1.1.0
+
+# AWS Storage
+django-s3-folder-storage==0.5
+
+# WPAPI
+wordpress-api==1.2.9

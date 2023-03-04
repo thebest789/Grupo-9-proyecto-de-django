@@ -1,0 +1,13 @@
+# Flake8
+flake8==3.9.2
+
+# Coverage
+coverage==5.5
+
+# DebugToolbar
+django-debug-toolbar==3.2.1
+
+# Responses
+responses==0.13.3
+
+-r requirements.txt
